@@ -1,7 +1,7 @@
 <template>
   <el-container class="container">
     <el-header class="header">
-      <span @click="headerClick">电商后台管理系统</span>
+      <span @click="headerClick">后台管理系统</span>
       <el-button class="exit" @click="exitBtnClick">退出</el-button>
     </el-header>
     <el-container>
